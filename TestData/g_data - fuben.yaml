@@ -1,0 +1,10 @@
+{!!python/unicode 'DoctorServiceSettingKey': !!python/unicode '483bfba7-5cd3-e711-8da1-000c29ac6d36',
+  !!python/unicode 'EndDateTime': !!python/unicode '17:29:59', !!python/unicode 'StartDateTime': !!python/unicode '17:00:00',
+  !!python/unicode 'StoreId': !!python/unicode 'A05E1F92-CA15-4F68-90E1-197E636A9899',
+  !!python/unicode 'admin_name': !!python/unicode 'superadmin', !!python/unicode 'admin_pwd': !!python/unicode 'elephantpwd',
+  !!python/unicode 'cardno': !!python/unicode 'InA', !!python/unicode 'check_name': !!python/unicode '15956988705',
+  !!python/unicode 'check_pwd': !!python/unicode '123456', !!python/unicode 'doctor_name': !!python/unicode '13611786978',
+  !!python/unicode 'doctor_pwd': !!python/unicode '123456', !!python/unicode 'endDate': !!python/unicode '2018-01-13',
+  !!python/unicode 'num': 68.0, !!python/unicode 'startDate': !!python/unicode '2018-01-13',
+  !!python/unicode 'user_idcard': !!python/unicode '510821199205141214', !!python/unicode 'user_name': !!python/unicode 'TestUser',
+  !!python/unicode 'user_phone': 15400000020.0, !!python/unicode 'user_pwd': !!python/unicode '123456'}
